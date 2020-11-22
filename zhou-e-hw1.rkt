@@ -1,4 +1,5 @@
 ;Eric Zhou, ezzhou
+;BSL
 
 ;(1.)
 ;Signature: [String, String, Integer, Integer, Boolean] -> Restaurant Struct
